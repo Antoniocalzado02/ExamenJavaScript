@@ -1,0 +1,23 @@
+#element {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    text-align: center;
+  }
+
+  #element.mouseenter {
+    width: 100px;
+    height: 100px;
+    background: orangered;
+    border-radius: 50%;
+    text-align: center;
+  }
+
+  #element.mouseleave {
+    width: 100px;
+    height: 100px;
+    background: black;
+    border-radius: 50%;
+    text-align: center;
+  }
